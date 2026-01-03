@@ -40,14 +40,14 @@ Here’s what’s inside:
 * **`.env`** — Environment variables (probably API keys or backend URLs) ([GitHub][1])
 
 ## Images: 
-<img width="2522" height="1232" alt="Screenshot 2026-01-03 092423" src="https://github.com/user-attachments/assets/cbd3aff0-e2e4-4ec0-af08-2c79f8581665" />
-<img width="2530" height="1220" alt="Screenshot 2026-01-03 092405" src="https://github.com/user-attachments/assets/0a34f946-60bf-43f6-8d41-ddcaaeadeb8e" />
-<img width="2531" height="1231" alt="Screenshot 2026-01-03 092351" src="https://github.com/user-attachments/assets/24a2664f-893e-40ab-8b50-f221c899e92b" />
-<img width="2524" height="1236" alt="Screenshot 2026-01-03 092328" src="https://github.com/user-attachments/assets/67eb9c73-0a98-44d8-a267-31a1c953b5d4" />
-<img width="2529" height="1218" alt="Screenshot 2026-01-03 092154" src="https://github.com/user-attachments/assets/9a25353e-870a-4657-bda9-8fae44ea34f8" />
-<img width="2530" height="1230" alt="Screenshot 2026-01-03 092140" src="https://github.com/user-attachments/assets/3871f5ec-fceb-48d9-904f-a38f582825ef" />
-<img width="2524" height="1233" alt="Screenshot 2026-01-03 092121" src="https://github.com/user-attachments/assets/ae91be4d-96b5-4180-abeb-2f250923a007" />
-<img width="2535" height="1234" alt="Screenshot 2026-01-03 092103" src="https://github.com/user-attachments/assets/975f9084-9437-439b-938b-fa12c18c2c64" />
+<img width="2535" height="1234" alt="Screenshot 2026-01-03 092103" src="https://github.com/user-attachments/assets/17dbc48f-4d64-4876-a7c8-aecc68376070" />
+<img width="2524" height="1233" alt="Screenshot 2026-01-03 092121" src="https://github.com/user-attachments/assets/eb39c790-af0c-4196-87e6-a1708384a410" />
+<img width="2530" height="1230" alt="Screenshot 2026-01-03 092140" src="https://github.com/user-attachments/assets/0792a2ce-f150-4f62-93dd-008c7dd135c1" />
+<img width="2529" height="1218" alt="Screenshot 2026-01-03 092154" src="https://github.com/user-attachments/assets/50e2fdd0-78fe-4b35-9f19-5adb5a43fff1" />
+<img width="2524" height="1236" alt="Screenshot 2026-01-03 092328" src="https://github.com/user-attachments/assets/8b0793fb-98cc-440d-bc71-cac824f5b027" />
+<img width="2531" height="1231" alt="Screenshot 2026-01-03 092351" src="https://github.com/user-attachments/assets/a448d9e3-0bc9-4dea-907a-ff325145119f" />
+<img width="2530" height="1220" alt="Screenshot 2026-01-03 092405" src="https://github.com/user-attachments/assets/04f9275d-4629-46ad-9ef8-0cdcaa980543" />
+<img width="2522" height="1232" alt="Screenshot 2026-01-03 092423" src="https://github.com/user-attachments/assets/b1097308-cd5e-4b61-960a-75cb1c9419d0" />
 
 
 ## 🛠️ **How to Run This App in VS Code**
